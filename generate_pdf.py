@@ -10,8 +10,8 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), 'venv
 import markdown
 
 # Paths
-WORKSPACE_DIR = "/home/gaian/Fine_tuning_Modelfroscratch"
-MD_PATH = "/home/gaian/.gemini/antigravity/brain/c5364b67-c891-4403-985e-7e89389832b7/lora_qlora_deep_dive.md"
+WORKSPACE_DIR = "/home/Ashish/Fine_tuning_Modelfroscratch"
+MD_PATH = "/home/Ashish/.gemini/antigravity/brain/c5364b67-c891-4403-985e-7e89389832b7/lora_qlora_deep_dive.md"
 HTML_PATH = os.path.join(WORKSPACE_DIR, "lora_qlora_deep_dive.html")
 PDF_PATH = os.path.join(WORKSPACE_DIR, "lora_qlora_deep_dive.pdf")
 
